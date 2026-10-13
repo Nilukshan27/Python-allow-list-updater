@@ -57,3 +57,9 @@ The source code and sample files have been added to this repository. The expecte
 This is an independent portfolio implementation inspired by a Google Cybersecurity coursework activity. It is not represented as the original graded submission.
 
 The sample IP addresses are reserved for documentation and are not intended for real network access control.
+
+Testing
+
+The project was run in Replit using the provided sample files. The reported result was that 2 entries were removed from the original 4, leaving "192.0.2.10" and "192.0.2.12".
+
+The test result is based on the Replit Agent's reported execution.
